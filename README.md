@@ -21,4 +21,4 @@ Connect to `psql` and create the `bookmark_manager` database:
 CREATE DATABASE bookmark_manager;
 ```
 
-To set up the appropriate tables, connect to the database using the pqsl command ``\c bookmark_manager` and run the SQL scripts we have saved in the file `01_create_bookmarks_table.sql`
+To set up the appropriate tables, connect to the database using the pqsl command `\c bookmark_manager` and run the SQL scripts we have saved in the file `01_create_bookmarks_table.sql`
