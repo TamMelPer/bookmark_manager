@@ -5,6 +5,7 @@ class BookmarkManager < Sinatra::Base
 
   get '/' do
     'Bookmark Manager'
+
   end
 
   get '/bookmarks' do
