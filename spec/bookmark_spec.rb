@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'bookmark'
 
 describe Bookmark do
@@ -11,9 +13,16 @@ describe Bookmark do
 
       bookmarks = Bookmark.all
 
-      expect(bookmarks).to include("http://www.makersacademy.com")
-      expect(bookmarks).to include("http://www.destroyallsoftware.com")
-      expect(bookmarks).to include("http://www.google.com")
+      expect(bookmarks).to include('http://www.makersacademy.com')
+      expect(bookmarks).to include('http://www.destroyallsoftware.com')
+      expect(bookmarks).to include('http://www.google.com')
+    end
+  end
+
+  describe '.create' do
+    it 'adds a bookmark to the list' do
+      Bookmark.create(url: 'http://mel.com')
+      expect(Bookmark.all).to include('http://mel.com')
     end
   end
 end

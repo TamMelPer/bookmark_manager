@@ -3,19 +3,28 @@
     "coverage": {
       "/Users/melissapereira/Projects/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
           1,
           null,
           1,
           1,
           1,
-          1,
-          null,
-          1,
-          1,
-          1,
           null,
           1,
           null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
           1,
           1,
           1,
@@ -24,8 +33,26 @@
           null
         ]
       },
+      "/Users/melissapereira/Projects/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/melissapereira/Projects/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           1,
@@ -35,13 +62,15 @@
           null,
           null,
           1,
-          1,
+          null,
+          null,
+          null,
+          null,
           null,
           null,
           1,
           1,
           1,
-          null,
           1,
           1,
           1,
@@ -51,6 +80,6 @@
         ]
       }
     },
-    "timestamp": 1605629564
+    "timestamp": 1605710109
   }
 }
