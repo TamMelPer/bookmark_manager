@@ -75,6 +75,30 @@
           null
         ]
       },
+      "/Users/melissapereira/Projects/bookmark_manager/spec/database_connection_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/melissapereira/Projects/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
           null,
@@ -163,6 +187,6 @@
         ]
       }
     },
-    "timestamp": 1605878776
+    "timestamp": 1605889363
   }
 }
